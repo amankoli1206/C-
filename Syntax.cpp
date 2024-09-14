@@ -1,7 +1,7 @@
 #include<iostream>
-using namespace std;
-int main()
+using namespace std;       
+int main()         // main Function
 {
-  cout<<"Hey Welcome to the world of C++"<<endl;
-  return 0;
+  cout<<"// write code here"<<endl;    // anything inside " " this qoutes will be string
+  return 0; 
 }
